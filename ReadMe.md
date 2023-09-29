@@ -13,7 +13,7 @@
 	
  	I used a visual mockup of a design to create the About page. I created a new View then used CSS and HTML to create the front-end design of the page.
 	
-		Create entity model for Rental History and CRUD pages</li>
+		Create entity model for Rental History and CRUD pages
 
         In this story, I created an entity model for the RentalHistory class so it could be saved to a database. 
         I used a model first approach by adding a class to the Rent area Models, typed out the properties, and then adding a New Scaffold Item to let Entity Framework take care of the scaffolding.
@@ -23,7 +23,7 @@
         For this assignment I edited the text and styled the Create Rental History page which involved using css to create a container with a red background, center the text, and create two 		colored buttons.
         I used JQuery to change the text on an input field from Notes to Damages Incurred when the checkmark was checked and unchecked using a toggle function that relied on boolean logic.
 	
-		Rental History CRUD Part #2: Index Page<
+		Rental History CRUD Part #2: Index Page
 
         I created a stylized table of rental histories using Font Awesome for X and checkbox icons, a dropdown which also included icons inside, and an ellipsis icon that
         appears on hover to reveal the dropdown. To hide the ellipsis and show on hover, I used the jQuery .hide() function and the .show() and .hover() functions to show the content when hovering 	over any cell with the mouse. 
